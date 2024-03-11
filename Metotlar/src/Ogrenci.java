@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Ogrenci {
+public class Ogrenci {
+    String isim;
+    int yas;
+
 }
